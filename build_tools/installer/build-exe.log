@@ -1,0 +1,25 @@
+
+7-Zip (A) 4.64  Copyright (c) 1999-2009 Igor Pavlov  2009-01-03
+Scanning
+
+
+..\.jar:  WARNING: The filename, directory name, or volume label syntax is incorrect.
+
+..\jre:  WARNING: The filename, directory name, or volume label syntax is incorrect.
+
+
+
+Creating archive installer.7z
+
+
+
+WARNINGS for files:
+
+..\.jar : The filename, directory name, or volume label syntax is incorrect.
+
+..\jre : The filename, directory name, or volume label syntax is incorrect.
+
+----------------
+WARNING: Cannot find 2 files
+jre\bin\javaw.exe
+"..\installer\lib\izpack2exe\7za.exe" a -mmt -t7z -mx=9 installer.7z "..\.jar" "..\jre"
