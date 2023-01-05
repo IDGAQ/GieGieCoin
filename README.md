@@ -1,3 +1,3 @@
 # GieGieCoin
 
-A clone blockchain made for fun
+A clone blockchain coin made for fun
